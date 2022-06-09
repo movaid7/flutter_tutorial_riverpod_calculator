@@ -1,4 +1,5 @@
-# riverpod_calculator
+# Flutter Calculator App using Riverpod
 
-Flutter Calculator App built with Riverpod.
-Tutorial Source: <https://www.youtube.com/watch?v=6isW26d9TiE>
+### Tutorial Source
+
+[![Flutter Calculator App using Riverpod](https://img.youtube.com/vi/6isW26d9TiE/0.jpg)](https://www.youtube.com/watch?v=6isW26d9TiE "Flutter Calculator App using Riverpod")
